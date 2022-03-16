@@ -62,12 +62,6 @@ Expected Output:
 
 	6. Write a C# Sharp program to convert a given integer value to Roman numerals. 
 
-Symbol	I	V	X	L	C	D	M
-Value   1	5	10	50	100	500	1000
-
-From <https://www.w3resource.com/csharp-exercises/math/csharp-math-exercise-13.php> 
-
-
 Expected Output: 
 Original integer value: 2365 
 Roman numerals of the said integer value: 
@@ -150,4 +144,4 @@ Use above table to perform CRUD operation using ENTITY FRAMEWORK.
 Use Library table created above to implement Display all recoeds using LINQ to SQL and LINQ to dataset approach. 
 Create a ZIP FILE AND UPLOAD IT ON GITHUB  
 Share link with following email  
-malak@cognixia.com ![image](https://user-images.githubusercontent.com/87956276/158682961-267d39e3-b3ca-414e-8cb5-92f38f5b3a75.png)
+malak@cognixia.com
